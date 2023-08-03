@@ -1,3 +1,2 @@
 #!/bin/bash
-chmo -R +X .
-
+chmod -R +X .
